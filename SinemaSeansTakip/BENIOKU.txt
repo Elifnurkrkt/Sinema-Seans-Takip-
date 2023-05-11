@@ -1,0 +1,1 @@
+sinema.Db veritabanı dosyasını "SinemaSeansTakip\SinemaSeansTakip\bin\Debug" hedef dosyası içine kopyalayınız
